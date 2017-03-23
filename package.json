@@ -1,0 +1,16 @@
+{
+  "name": "osu_export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^2.1.2",
+    "node-id3": "0.0.9",
+    "osu-parser": "^0.3.3"
+  }
+}
